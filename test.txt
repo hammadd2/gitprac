@@ -1,7 +1,1 @@
-hello ptv2
-
-My classic Ptv
-
-Urtughral PTV
-
-Smart GIt
+This is test file
